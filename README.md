@@ -13,3 +13,5 @@ Crackdrive X is a specialized, premium-tier Roblox exploit script built specific
 💰 Coin & Event Auto-Farm: Silently teleports the player's character model straight to spawning coins or event tokens across the map, bypassing typical collision boundaries.🏃 Movement Modifiers: Features responsive sliders to manually adjust walk speed and jump height, alongside a complete "Noclip" toggle to walk directly through solid walls and doors.
 
 🛡️ Core Execution SpecsKeyless Framework: Unlike standard public scripts that require users to pass through multiple ad-revenue links (like Linkvertise) to retrieve a temporary activation key, Crackdrive X executes straight away.Universal Executor Compatibility: Optimized specifically to handle low-level memory injection on mobile executors (like Delta, Fluxus, or Vega X) and Windows-level executors without crashing the Roblox app client.
+
+WARNING:I don NOT own this script rather this is a repost of the script also please note that The discord Credits:Project Reverse
